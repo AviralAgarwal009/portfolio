@@ -1,0 +1,10 @@
+<svg width="1440" height="9328" viewBox="0 0 1440 9328" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="mix-blend-mode:overlay">
+<rect width="1441" height="9328" fill="url(#grain)"/>
+</g>
+<defs>
+<pattern id="grain" patternContentUnits="objectBoundingBox" width="1.39972" height="0.216231">
+<use xlink:href="#image0_530_70" transform="scale(0.000699861 0.000108115)"/>
+</pattern>
+</defs>
+</svg>
