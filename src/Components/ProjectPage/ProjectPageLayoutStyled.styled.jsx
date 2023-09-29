@@ -33,6 +33,14 @@ export const ProjectPageLayoutStyled = styled.div`
         color:white;
     }
 
+    @media only screen and (max-width: 600px) {
+        .main{
+            padding: 0 30px;
+            margin-top:20px;          
+        }
+        
+     }
+
    
   
 `;

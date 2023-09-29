@@ -60,5 +60,16 @@ export const ProjectDetailsStyled = styled.div`
         color: var(--Black-80, #333);
         font-size: 16px;
     }
+
+    @media only screen and (max-width: 600px) {
+       .verticalDivision{
+        flex-direction:column;
+       }
+
+       .projectImpact{
+            padding:0 30px;
+        }
+       
+    }
   
 `;
