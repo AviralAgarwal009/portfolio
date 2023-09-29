@@ -8,7 +8,11 @@ export const ProjectDetails = ({ projectInfo }) => {
 
 
         let elements =  Object.keys(projectInfo.metrics).map((keyName, i) => {
+
             let projectMetrics = projectInfo.metrics[keyName];
+            //sort project metrics based on order
+            
+
             return (
                 <div key={i}>
                     <ProjectMetrics field = {projectMetrics.title} values = {projectMetrics.values} />

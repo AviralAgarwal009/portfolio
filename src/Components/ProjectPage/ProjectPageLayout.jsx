@@ -17,7 +17,6 @@ const ProjectPageLayout = () => {
     const projectId = searchParams.get('projectId');
     let project = -1;
     if(FirebaseConstants?.ProjectInfo){
-
         project = FirebaseConstants?.ProjectInfo?.find((item)=>{
             return item.id == projectId;
         })
