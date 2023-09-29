@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AviralAgarwal009/portfolio/static/css/main.9f0d5d41.css",
-    "main.js": "/AviralAgarwal009/portfolio/static/js/main.88b97a59.js",
+    "main.js": "/AviralAgarwal009/portfolio/static/js/main.30b5f539.js",
     "static/media/profile.jpg": "/AviralAgarwal009/portfolio/static/media/profile.45bbfefa1e6bd89f8300.jpg",
     "static/media/adani-project.PNG": "/AviralAgarwal009/portfolio/static/media/adani-project.84da18c54dc2756d9100.PNG",
     "static/media/project1.png": "/AviralAgarwal009/portfolio/static/media/project1.aa908c1a8a88168b504d.png",
@@ -27,10 +27,10 @@
     "static/media/arrow-top-right.svg": "/AviralAgarwal009/portfolio/static/media/arrow-top-right.bf21f86fd50433bef67de927b0167e31.svg",
     "static/media/arror-right.svg": "/AviralAgarwal009/portfolio/static/media/arror-right.1b7644d24052255ba7ceb8a46c406aef.svg",
     "main.9f0d5d41.css.map": "/AviralAgarwal009/portfolio/static/css/main.9f0d5d41.css.map",
-    "main.88b97a59.js.map": "/AviralAgarwal009/portfolio/static/js/main.88b97a59.js.map"
+    "main.30b5f539.js.map": "/AviralAgarwal009/portfolio/static/js/main.30b5f539.js.map"
   },
   "entrypoints": [
     "static/css/main.9f0d5d41.css",
-    "static/js/main.88b97a59.js"
+    "static/js/main.30b5f539.js"
   ]
 }
