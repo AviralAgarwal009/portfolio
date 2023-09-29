@@ -6,9 +6,19 @@ import { ProjectDetails } from "./ProjectDetails/ProjectDetails";
 import { SiteFooter } from "../SiteFooter/SiteFooter";
 import React from "react";
 import { FirebaseContext } from "../../App";
+import { Link,useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
 
 const ProjectPageLayout = () => {
+
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        // Scroll to the top of the page when the component mounts
+        window.scrollTo(0, 0);
+      }, []);
+
 
     const FirebaseConstants = React.useContext(FirebaseContext);
 
@@ -30,6 +40,10 @@ const ProjectPageLayout = () => {
         return <div>Page Not Found</div>
     }
 
+    const navigateBack = ()=>{
+        navigate(-1)
+    }
+
     return (
         <ProjectPageLayoutStyled>
 
@@ -38,7 +52,7 @@ const ProjectPageLayout = () => {
             <div className="main">
 
                 <div >
-                   <a href="/"> <p className="backBtn"><IconLeftBack/> BACK</p></a>
+                    <p className="backBtn" onClick={navigateBack}><IconLeftBack/> BACK</p>
                 </div>
 
                 <ProjectDetails projectInfo={project} />

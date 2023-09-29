@@ -13,17 +13,17 @@ export const SiteHeader = () => {
         <SiteHeaderStyled>
             <div id="site-header">
                 <div className="header-name">
-                    <a href="#">
+                    <a href="/portfolio">
                         <h4>Aviral Agarwal</h4>
                     </a>
                 </div>
 
                 <div className="header-cta">
-                    <ScrollLink to="/#work" smooth  >
+                    <ScrollLink to="/portfolio#work" smooth  >
                         <p className="is-selected scrollLink">Work</p>
                     </ScrollLink>
                 
-                    <ScrollLink to="/#about" smooth >
+                    <ScrollLink to="/portfolio#about" smooth >
                         <p className="scrollLink">About</p>
                     </ScrollLink>
 

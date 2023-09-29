@@ -11,7 +11,7 @@ export const ProjectDetails = ({ projectInfo }) => {
 
             let projectMetrics = projectInfo.metrics[keyName];
             //sort project metrics based on order
-            
+
 
             return (
                 <div key={i}>

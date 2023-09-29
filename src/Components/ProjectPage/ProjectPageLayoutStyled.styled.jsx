@@ -18,6 +18,7 @@ export const ProjectPageLayoutStyled = styled.div`
         font-style: italic;
         display:flex;
         gap:8px;
+        cursor:pointer;
     }
     
     .separationBorder{

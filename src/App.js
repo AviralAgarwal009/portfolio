@@ -38,8 +38,8 @@ function App() {
             <FirebaseContext.Provider value={firebaseConstants}>
 
                 <Routes>
-                    <Route path="/project" element={<ProjectPageLayout/>} firebaseConstants={firebaseConstants} ></Route>
-                    <Route path="/" element={<Layout />} firebaseConstants={firebaseConstants} ></Route>
+                    <Route path="/portfolio/project" element={<ProjectPageLayout/>} firebaseConstants={firebaseConstants} ></Route>
+                    <Route path="/portfolio" element={<Layout />} firebaseConstants={firebaseConstants} ></Route>
                 </Routes>
 
             </FirebaseContext.Provider>

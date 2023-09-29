@@ -1,6 +1,7 @@
 import React from "react";
 import { ProjectStyled } from "./ProjectStyled.styled";
 import { ReactComponent as IconArrorRight } from './../../../assets/icons/arror-right.svg'
+import { Link } from "react-router-dom";
 
 export const Project = ({project,index}) => {
 
@@ -26,7 +27,7 @@ export const Project = ({project,index}) => {
                         </div>
 
                         <div className="projectUrl" >
-                            <a href={`/project?projectId=${project.id}`}>VIEW PROJECT &nbsp; <IconArrorRight/></a>
+                            <Link to={`project?projectId=${project.id}`} >VIEW PROJECT &nbsp; <IconArrorRight/></Link>
                         </div>
 
                     </div>

@@ -5,7 +5,6 @@ import { ProjectMetricsStyled } from "./ProjectMetricsStyled.styled";
 export const ProjectMetrics = ({ field,values }) => {
 
     const renderValues = ()=>{
-        console.log(values);
         return values.map((value,index)=>{
             return (
                 <div key={index}  > 
