@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AviralAgarwal009/protfolio/static/css/main.93c524a0.css",
+    "main.js": "/AviralAgarwal009/protfolio/static/js/main.6f14623d.js",
+    "static/media/profile.jpg": "/AviralAgarwal009/protfolio/static/media/profile.45bbfefa1e6bd89f8300.jpg",
+    "static/media/adani-project.PNG": "/AviralAgarwal009/protfolio/static/media/adani-project.84da18c54dc2756d9100.PNG",
+    "static/media/project1.png": "/AviralAgarwal009/protfolio/static/media/project1.aa908c1a8a88168b504d.png",
+    "static/media/Makeathon.png": "/AviralAgarwal009/protfolio/static/media/Makeathon.fe62247bbd8ab2d3267a.png",
+    "static/media/caching.png": "/AviralAgarwal009/protfolio/static/media/caching.cae97456fd3508dcedd6.png",
+    "static/media/redbus.PNG": "/AviralAgarwal009/protfolio/static/media/redbus.8f531cc73fb65a17f2f9.PNG",
+    "static/media/smiley.svg": "/AviralAgarwal009/protfolio/static/media/smiley.8483238fd04bc7186fb9.svg",
+    "static/media/hobby-game.svg": "/AviralAgarwal009/protfolio/static/media/hobby-game.2cb97e85af3bfa940d60.svg",
+    "static/media/hobby-movie.svg": "/AviralAgarwal009/protfolio/static/media/hobby-movie.eea4b52bcfef9a95f068.svg",
+    "static/media/high-five.svg": "/AviralAgarwal009/protfolio/static/media/high-five.202cea4998a71e94432983e810e89cd1.svg",
+    "static/media/hobby-travel.svg": "/AviralAgarwal009/protfolio/static/media/hobby-travel.1d1c377fd74993b2abe6.svg",
+    "static/media/HelveticaNeueIt.ttf": "/AviralAgarwal009/protfolio/static/media/HelveticaNeueIt.105126d0fc7da1f6c541.ttf",
+    "static/media/work-man.svg": "/AviralAgarwal009/protfolio/static/media/work-man.63202699209050869819.svg",
+    "static/media/HelveticaNeue.ttf": "/AviralAgarwal009/protfolio/static/media/HelveticaNeue.50a6cd509ab1a89a5956.ttf",
+    "static/media/direct.png": "/AviralAgarwal009/protfolio/static/media/direct.92c6474c9e8aa65ff50d.png",
+    "static/media/HelveticaNeueLt.ttf": "/AviralAgarwal009/protfolio/static/media/HelveticaNeueLt.81d0ae0c15333948a37d.ttf",
+    "static/media/HelveticaNeueMed.ttf": "/AviralAgarwal009/protfolio/static/media/HelveticaNeueMed.49f40b0373f2a8f402f6.ttf",
+    "static/media/HelveticaNeueBd.ttf": "/AviralAgarwal009/protfolio/static/media/HelveticaNeueBd.497b4484b7335c1f0c11.ttf",
+    "static/media/finger-right.svg": "/AviralAgarwal009/protfolio/static/media/finger-right.760d4d9a23920a81d1c7f1c6bac0b56a.svg",
+    "index.html": "/AviralAgarwal009/protfolio/index.html",
+    "static/media/black-grain.svg": "/AviralAgarwal009/protfolio/static/media/black-grain.37f9543986beb0fd6d97.svg",
+    "static/media/left-back.svg": "/AviralAgarwal009/protfolio/static/media/left-back.dfc87ba58559756cca0bcdbc2c30456b.svg",
+    "static/media/arrow-top-right.svg": "/AviralAgarwal009/protfolio/static/media/arrow-top-right.bf21f86fd50433bef67de927b0167e31.svg",
+    "static/media/arror-right.svg": "/AviralAgarwal009/protfolio/static/media/arror-right.1b7644d24052255ba7ceb8a46c406aef.svg",
+    "main.93c524a0.css.map": "/AviralAgarwal009/protfolio/static/css/main.93c524a0.css.map",
+    "main.6f14623d.js.map": "/AviralAgarwal009/protfolio/static/js/main.6f14623d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93c524a0.css",
+    "static/js/main.6f14623d.js"
+  ]
+}
