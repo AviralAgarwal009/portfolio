@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.05787b3d.css",
-    "main.js": "/portfolio/static/js/main.c7e775d3.js",
+    "main.js": "/portfolio/static/js/main.399de9bd.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.45bbfefa1e6bd89f8300.jpg",
     "static/media/adani-project.PNG": "/portfolio/static/media/adani-project.84da18c54dc2756d9100.PNG",
     "static/media/project1.png": "/portfolio/static/media/project1.aa908c1a8a88168b504d.png",
@@ -27,10 +27,10 @@
     "static/media/arrow-top-right.svg": "/portfolio/static/media/arrow-top-right.bf21f86fd50433bef67de927b0167e31.svg",
     "static/media/arror-right.svg": "/portfolio/static/media/arror-right.1b7644d24052255ba7ceb8a46c406aef.svg",
     "main.05787b3d.css.map": "/portfolio/static/css/main.05787b3d.css.map",
-    "main.c7e775d3.js.map": "/portfolio/static/js/main.c7e775d3.js.map"
+    "main.399de9bd.js.map": "/portfolio/static/js/main.399de9bd.js.map"
   },
   "entrypoints": [
     "static/css/main.05787b3d.css",
-    "static/js/main.c7e775d3.js"
+    "static/js/main.399de9bd.js"
   ]
 }
