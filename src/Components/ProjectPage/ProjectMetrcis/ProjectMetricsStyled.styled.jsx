@@ -11,6 +11,7 @@ export const ProjectMetricsStyled = styled.div`
     .categoryValues{
         margin-top:6px;
         line-height: 135%;
+        color: rgba(0, 0, 0, 0.70);
     }
 
     .categoryValue{

@@ -28,7 +28,12 @@ const Layout = ({}) => {
                 <div className="main">
                     <SiteHeader />
                     <DashboardContent />
+                    <div className="horizontalLineHolder">
+                        <div className="horizontalLine"><span className="horizontalContent">Scroll down to see my work</span></div>
+                    </div>
+
                 </div>
+
 
                 <div className="work" >
                     <div className="projectContent" id="work">

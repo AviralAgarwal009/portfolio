@@ -22,7 +22,7 @@ export const SiteFooter = () => {
                     </div>
 
                     <div className="signingOff">
-                    Drop a message, and I'll be sure to catch it and reply with a smiley. <span className="emotes">😊</span>
+                      <span className="emotes">{/*😊*/}</span>
                     </div>
                 </div>
 

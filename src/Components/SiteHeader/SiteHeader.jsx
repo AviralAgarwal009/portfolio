@@ -14,7 +14,7 @@ export const SiteHeader = () => {
             <div id="site-header">
                 <div className="header-name">
                     <a href="/portfolio">
-                        <h4>Aviral Agarwal</h4>
+                        <h4>AVIRAL AGARWAL</h4>
                     </a>
                 </div>
 

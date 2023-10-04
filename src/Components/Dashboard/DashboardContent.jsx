@@ -14,9 +14,11 @@ export const DashboardContent = () => {
                 <div> 
 
                     <IconHighFive />
+                    &nbsp;
                     <img src={require('./../../assets/icons/work-man.png')} />
                 </div>
-                <strong>Aviral </strong> {firebaseConstants.Summary}
+                <br/>
+                <strong className="dashboardTitle">Aviral </strong> {firebaseConstants.Summary}
                 <ScrollLink to="#contact" smooth={true} duration={400}>
                     <div className="button dashboardBtn">
                         <div className="dot"></div> &nbsp; Let's talk

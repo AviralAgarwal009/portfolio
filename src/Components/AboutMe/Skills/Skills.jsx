@@ -30,7 +30,7 @@ export const Skills = () => {
         <SkillsStyled>
             
             <div className="skills">
-                <div> { FirebaseConstants?.SkillsTitle } </div>
+                {/* <div> { FirebaseConstants?.SkillsTitle } </div> */}
                 
                 {renderSkills()}
 

@@ -2,8 +2,12 @@ import { styled } from "styled-components";
 
 export const DashboardContentStyled = styled.div`
    .summary{
-    font-size: 24px;
+    font-size: 21px;
     shape-rendering:"crispEdges";
+    font-family: HelveticaNeueMed;
+    color: rgba(12, 12, 12, 0.60);
+    line-height: 135.1%; /* 32.424px */
+
    }
 
     .center {
@@ -15,8 +19,12 @@ export const DashboardContentStyled = styled.div`
     }
 
     .button{
-        border-radius: 30px;
+        border-radius: 40px;
         border: 0.5px solid #000;
+    }
+
+    .dashboardTitle{
+        color:black;
     }
 
     .dashboardBtn{
@@ -28,6 +36,7 @@ export const DashboardContentStyled = styled.div`
         justify-content:center;
         padding:18px 33px;
         cursor:pointer;
+        font-size:19px;
     }
     
     .dashboardBtn:hover{
@@ -52,6 +61,8 @@ export const DashboardContentStyled = styled.div`
         text-decoration:none;
         color:inherit;
     }
+
+
 
     @media only screen and (max-width: 600px) {
     

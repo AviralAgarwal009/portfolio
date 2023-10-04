@@ -1,5 +1,6 @@
 import { ProjectDetailsStyled } from "./ProjectDetailsStyled.styled";
 import { ProjectMetrics } from "../ProjectMetrcis/ProjectMetrics";
+import { ImageCarousel } from "../ImageCarousel/ImageCarousel";
 
 export const ProjectDetails = ({ projectInfo }) => {
 
@@ -33,7 +34,7 @@ export const ProjectDetails = ({ projectInfo }) => {
 
                 <div className="verticalDivision">
                     <div className="projectSummary">
-                        <p>{projectInfo.bigSummary}</p>
+                        <p className="projectInfo">{projectInfo.bigSummary}</p>
                     </div>
 
                     <div className="projectMetrics">
@@ -44,8 +45,14 @@ export const ProjectDetails = ({ projectInfo }) => {
 
                 </div>
 
+
                 {
                         projectInfo.image?(
+                            Array.isArray(projectInfo.image)?(
+                                <div className="projectImage">
+                                    <ImageCarousel image={projectInfo.image} />
+                                </div>
+                            ):
                             <div className="projectImage">
                                 <img  className="projectImageTag" src={projectInfo.image } />
                             </div>
@@ -56,7 +63,7 @@ export const ProjectDetails = ({ projectInfo }) => {
 
                     <div className="horizontalLine"></div>
                     <div className="impactTitle">The Impact</div>
-                    <div className="impactDescription"><p>{projectInfo.impact}</p></div>
+                    <div className="impactDescription"><p className="projectInfo">{projectInfo.impact}</p></div>
                 </div>
 
 

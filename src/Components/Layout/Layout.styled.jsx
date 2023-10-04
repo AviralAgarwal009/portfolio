@@ -15,6 +15,29 @@ export const LayoutStyled = styled.div`
         padding-bottom:100px;
     }
 
+    .horizontalLineHolder{
+        position:absolute;
+        bottom:87px;
+        width:100%;
+        text-align:center;
+        padding: 2rem 120px;
+        color: rgba(0, 0, 0, 0.60);
+        box-sizing:border-box;
+    }
+    
+    .horizontalLine{
+       
+        padding:0 2rem;
+        text-align: center; 
+        background: rgba(0, 0, 0, 0.20);        
+        line-height: 0.1em;
+    }
+    .horizontalContent{
+        background:#fff; 
+        padding:0 28px; 
+        font-family:HelveticaNeueMed
+    }
+
     .separationBorder{
         width: 100%;
         height: 11px;

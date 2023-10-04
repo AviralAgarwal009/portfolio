@@ -3,7 +3,7 @@ import { styled } from "styled-components";
 export const ProjectStyled = styled.div`
   .project{
     font-size: 24px;
-    font-style: normal;
+    font-family: HelveticaNeueLt;
     margin-top:112px;
   }
 
@@ -18,6 +18,9 @@ export const ProjectStyled = styled.div`
   }
 
   .projectMetadata{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
     flex-grow: 1;
   }
 
@@ -31,11 +34,19 @@ export const ProjectStyled = styled.div`
 
   .projectIndex{
     color: rgba(255, 255, 255, 0.50);
+    font-family:Georgia;
+  }
+
+  .projectAnchor{
+    display:flex;
+    align-items:center;
   }
   
   .projectTitle{
     color: #FFF;
     font-size:36px;
+    font-family:Georgia;
+
   }
 
   .projectTags{
@@ -52,7 +63,7 @@ export const ProjectStyled = styled.div`
 
   .projectSummary{
     color: rgba(255, 255, 255, 0.60);
-    font-family: HelveticaNeueMed;
+    // font-family: HelveticaNeueMed;
     font-size: 18px;
     line-height: 155.1%; /* 27.918px */
     letter-spacing: 0.36px;

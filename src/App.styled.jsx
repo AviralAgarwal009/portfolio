@@ -15,7 +15,5 @@ export const AppStyled = styled.div`
     p {
         font-family: HelveticaNeueMed;
     }
-    
-
 
 `;

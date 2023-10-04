@@ -21,6 +21,7 @@ export const ProjectDetailsStyled = styled.div`
     .verticalDivision{
         display:flex;
         gap:76px;
+        margin-top:30px;
     }
 
     .projectSummary{
@@ -34,6 +35,7 @@ export const ProjectDetailsStyled = styled.div`
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 20px; 
+        grid-column-gap:83px;
     }
 
     .projectImage{
@@ -54,11 +56,20 @@ export const ProjectDetailsStyled = styled.div`
         color: #FF5C5C;
         font-family: Georgia;
         font-size: 24px;
+        margin-bottom:30px;
+
     }
 
     .impactDescription{
         color: var(--Black-80, #333);
         font-size: 16px;
+    }
+
+    .projectInfo{
+        margin:0;
+        line-height: 155.1%;
+        color: rgba(0, 0, 0, 0.60);
+
     }
 
     @media only screen and (max-width: 600px) {

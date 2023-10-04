@@ -10,12 +10,12 @@ export const SiteHeaderStyled = styled.div`
 
     .header-name {
         a {
-            color: #4c4c4c;
+            color: #4c4c4cb3;
             text-decoration: none;
 
             h4 {
                 font-size: 1rem;
-                letter-spacing: 0.5px;
+                letter-spacing: 1.5px;
                 font-weight: 600 !important;
             }
         }

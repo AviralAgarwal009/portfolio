@@ -53,9 +53,11 @@ export const AboutStyled = styled.div`
 
   .profileSummary{
     margin-top:35px;
-    color: rgba(12, 12, 12, 0.60);
-    font-family: HelveticaNeueMed;
+    color: rgba(12, 12, 12, 1.6);
+    font-family: HelveticaNeueLt;
     font-size: 16px;
+    line-height: 135.1%;
+    letter-spacing: 0.6px;
  
   }
 
