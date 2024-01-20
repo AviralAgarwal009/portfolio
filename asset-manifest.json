@@ -1,36 +1,36 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3c501277.css",
-    "main.js": "/portfolio/static/js/main.0d34ad96.js",
+    "main.js": "/portfolio/static/js/main.0b12a554.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.45bbfefa1e6bd89f8300.jpg",
     "static/media/adani-project.PNG": "/portfolio/static/media/adani-project.84da18c54dc2756d9100.PNG",
     "static/media/project1.png": "/portfolio/static/media/project1.aa908c1a8a88168b504d.png",
     "static/media/Makeathon.png": "/portfolio/static/media/Makeathon.fe62247bbd8ab2d3267a.png",
     "static/media/caching.png": "/portfolio/static/media/caching.cae97456fd3508dcedd6.png",
     "static/media/redbus.PNG": "/portfolio/static/media/redbus.8f531cc73fb65a17f2f9.PNG",
-    "static/media/smiley.svg": "/portfolio/static/media/smiley.8483238fd04bc7186fb9.svg",
-    "static/media/hobby-game.svg": "/portfolio/static/media/hobby-game.2cb97e85af3bfa940d60.svg",
-    "static/media/hobby-movie.svg": "/portfolio/static/media/hobby-movie.eea4b52bcfef9a95f068.svg",
-    "static/media/high-five.svg": "/portfolio/static/media/high-five.202cea4998a71e94432983e810e89cd1.svg",
-    "static/media/hobby-travel.svg": "/portfolio/static/media/hobby-travel.1d1c377fd74993b2abe6.svg",
+    "static/media/smiley.svg": "/portfolio/static/media/smiley.210de9c629b4cc96ec80.svg",
+    "static/media/hobby-game.svg": "/portfolio/static/media/hobby-game.201bca51cfacd1a00370.svg",
+    "static/media/hobby-movie.svg": "/portfolio/static/media/hobby-movie.b9275771e8791e008c4a.svg",
+    "static/media/high-five.svg": "/portfolio/static/media/high-five.f5551ce8fdcf288cea9c437b96360495.svg",
+    "static/media/hobby-travel.svg": "/portfolio/static/media/hobby-travel.cb30eb35861e9a5570b2.svg",
     "static/media/HelveticaNeueIt.ttf": "/portfolio/static/media/HelveticaNeueIt.105126d0fc7da1f6c541.ttf",
-    "static/media/work-man.svg": "/portfolio/static/media/work-man.63202699209050869819.svg",
+    "static/media/work-man.svg": "/portfolio/static/media/work-man.1d040c72cbe899e9d594.svg",
     "static/media/HelveticaNeue.ttf": "/portfolio/static/media/HelveticaNeue.50a6cd509ab1a89a5956.ttf",
     "static/media/direct.png": "/portfolio/static/media/direct.92c6474c9e8aa65ff50d.png",
     "static/media/HelveticaNeueLt.ttf": "/portfolio/static/media/HelveticaNeueLt.81d0ae0c15333948a37d.ttf",
     "static/media/HelveticaNeueMed.ttf": "/portfolio/static/media/HelveticaNeueMed.49f40b0373f2a8f402f6.ttf",
     "static/media/HelveticaNeueBd.ttf": "/portfolio/static/media/HelveticaNeueBd.497b4484b7335c1f0c11.ttf",
-    "static/media/finger-right.svg": "/portfolio/static/media/finger-right.760d4d9a23920a81d1c7f1c6bac0b56a.svg",
+    "static/media/finger-right.svg": "/portfolio/static/media/finger-right.19d2b1ea05f01d38ea03003e511d87f9.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/black-grain.svg": "/portfolio/static/media/black-grain.37f9543986beb0fd6d97.svg",
-    "static/media/left-back.svg": "/portfolio/static/media/left-back.dfc87ba58559756cca0bcdbc2c30456b.svg",
-    "static/media/arrow-top-right.svg": "/portfolio/static/media/arrow-top-right.bf21f86fd50433bef67de927b0167e31.svg",
-    "static/media/arror-right.svg": "/portfolio/static/media/arror-right.1b7644d24052255ba7ceb8a46c406aef.svg",
+    "static/media/black-grain.svg": "/portfolio/static/media/black-grain.e36d523aef0b808a0172.svg",
+    "static/media/left-back.svg": "/portfolio/static/media/left-back.2ec4cfc041d8fafc7c142cc60e760d6f.svg",
+    "static/media/arrow-top-right.svg": "/portfolio/static/media/arrow-top-right.24ad466841f9c13e03451d62c7c41738.svg",
+    "static/media/arror-right.svg": "/portfolio/static/media/arror-right.fe5f495902427752c71c21b7cb3e5b50.svg",
     "main.3c501277.css.map": "/portfolio/static/css/main.3c501277.css.map",
-    "main.0d34ad96.js.map": "/portfolio/static/js/main.0d34ad96.js.map"
+    "main.0b12a554.js.map": "/portfolio/static/js/main.0b12a554.js.map"
   },
   "entrypoints": [
     "static/css/main.3c501277.css",
-    "static/js/main.0d34ad96.js"
+    "static/js/main.0b12a554.js"
   ]
 }
