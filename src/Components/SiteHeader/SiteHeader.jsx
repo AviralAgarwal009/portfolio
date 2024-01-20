@@ -27,6 +27,13 @@ export const SiteHeader = () => {
                         <p className="scrollLink">About</p>
                     </ScrollLink>
 
+                    <a href={`${FirebaseConstants?.Certificate}`} target="_blank">
+                        <div className="resume-cta">
+                            <p className="scrollLink">Certificates</p>
+                            <IconArrowTopRight />
+                        </div>
+                    </a>
+
                     <a href={`${FirebaseConstants?.Github}`} target="_blank">
                         <div className="resume-cta">
                             <p className="scrollLink">Nerds</p>
